@@ -1,4 +1,4 @@
-# Restaurants Database in the USA
+# Restaurant Reviews in the USA
 
 Welcome to our Database Managment semester project.
 
